@@ -4,13 +4,11 @@
 <!-- Contact Details here. -->
 ## 👤 CONTACT DETAILS
 <!-- Image here. -->
-<img align="right" alt="akali" width="150" src="https://github.com/mfulo/mfulo/assets/142382665/68def519-1b20-42f8-936c-6d439dc459c4">
+<img align="right" alt="Milave" width="150" src="https://github.com/mfulo/mfulo/assets/142382665/80b14cce-1659-4814-85bb-0e1e53ffc493">
 📞 +639666842123 <br>
 📧 milca.fulo@neu.edu.ph <br>
 🌐 https://github.com/mfulo <br>
 🏠︎ Quezon City <br>
-
-
 
 <br>
 
