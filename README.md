@@ -1,13 +1,13 @@
 ### Milca Fulo
 <!-- Your Contact Details here. -->
 
-# Education
+## Education
 
-# Certification
+## Certification
 
-# Tech Achievement
+## Tech Achievement
 
-# Skill Set
+## Skill Set
 
 <!--
 
