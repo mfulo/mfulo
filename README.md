@@ -69,6 +69,18 @@
 <br>
 
 ## 💻 SKILL SET
+### Programming Languages
+<!-- Java -->
+<a href="https://www.java.com/en/" target="_blank"> 
+    <img src="https://github.com/mfulo/mfulo/assets/142382665/48b88607-4f76-4300-98cc-ffca8832c348" height="50"/> 
+</a> 
+<!-- Python -->
+<a href="https://www.python.org/" target="_blank"> 
+    <img src="https://github.com/mfulo/mfulo/assets/142382665/60d57073-9beb-47f9-9319-1af070e0fb93" height="50"/> 
+</a> 
+
+
+
 ### Data Visualization Tools
 <!-- Powerbi -->
 <a href="https://app.powerbi.com/singleSignOn?ru=https%3A%2F%2Fapp.powerbi.com%2F%3FnoSignUpCheck%3D1" target="_blank"> 
@@ -79,16 +91,6 @@
     <img src="https://github.com/mfulo/mfulo/assets/142382665/4e2fea5a-0a39-4b21-8116-deb638cc46b7" height="50"/> 
 </a>
 
-
-### Programming Languages
-<!-- Java -->
-<a href="https://www.java.com/en/" target="_blank"> 
-    <img src="https://github.com/mfulo/mfulo/assets/142382665/48b88607-4f76-4300-98cc-ffca8832c348" height="50"/> 
-</a> 
-<!-- Python -->
-<a href="https://www.python.org/" target="_blank"> 
-    <img src="https://github.com/mfulo/mfulo/assets/142382665/60d57073-9beb-47f9-9319-1af070e0fb93" height="50"/> 
-</a> 
 
 
 ### DBMS
