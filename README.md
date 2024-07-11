@@ -51,7 +51,7 @@
 | **Power BI**               | [Snack Report using DAX](https://app.powerbi.com/view?r=eyJrIjoiMDdlYWM0OWUtNDQ4MS00NWY0LTk1MDItZjAxOTQ5NDM4ZjFlIiwidCI6IjUwZGQ1NjhmLTYwNTMtNDJkOC04NTEzLTk1NmU3N2RhZDY3NyIsImMiOjEwfQ%3D%3D) <br> [Soda Report for 2022](https://app.powerbi.com/view?r=eyJrIjoiYjc1ZDA0MzctZWI5ZC00ODcwLWIwZTAtNmY5MjU5YzU5ZDE5IiwidCI6IjUwZGQ1NjhmLTYwNTMtNDJkOC04NTEzLTk1NmU3N2RhZDY3NyIsImMiOjEwfQ%3D%3D)          |
 
 ### Refactoring 
-|        **DESIGN PATTERN**        |             **LINK**                |
+|        **DESIGN PATTERN**        |             **GITHUB LINK**                |
 |---------------------------:|:------------------------------------------|
 | **Strategy pattern**       | https://github.com/mfulo/strategyPattern  |
 | **Facade pattern**         | https://github.com/mfulo/facadePattern    |
