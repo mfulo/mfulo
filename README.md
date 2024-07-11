@@ -56,11 +56,11 @@
 <br>
 
 ## 💻 SKILL SET
-<a href="https://app.powerbi.com/singleSignOn?ru=https%3A%2F%2Fapp.powerbi.com%2F%3FnoSignUpCheck%3D1" target="_blank"> <img src="https://github.com/mfulo/mfulo/assets/142382665/1f26c05f-e09b-43b3-89a7-cee90369cfba" height="50"/> </a>
+<!-- Power BI -->
+<a href="https://app.powerbi.com/singleSignOn?ru=https%3A%2F%2Fapp.powerbi.com%2F%3FnoSignUpCheck%3D1" target="_blank"> <img src="https://github.com/mfulo/mfulo/assets/142382665/1f26c05f-e09b-43b3-89a7-cee90369cfba" height="50"/> </a> 
 
 
-
-
+<a href="https://public.tableau.com/app/discover" target="_blank"> <img src="https://github.com/mfulo/mfulo/assets/142382665/4e2fea5a-0a39-4b21-8116-deb638cc46b7" height="50"/> </a>
 
 
 
