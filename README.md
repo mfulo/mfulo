@@ -1,4 +1,4 @@
-<img align="right" alt="Milave" width="150" src="https://github.com/mfulo/mfulo/assets/142382665/80b14cce-1659-4814-85bb-0e1e53ffc493">
+![image](https://github.com/mfulo/mfulo/assets/142382665/de9b8b2c-b425-4ff8-8ca1-2636d6dee445)<img align="right" alt="Milave" width="150" src="https://github.com/mfulo/mfulo/assets/142382665/80b14cce-1659-4814-85bb-0e1e53ffc493">
 <br>
 <br>
 <br>
