@@ -65,7 +65,7 @@
 ### Data Visualization Tools
 <!-- Powerbi -->
 <a href="https://app.powerbi.com/singleSignOn?ru=https%3A%2F%2Fapp.powerbi.com%2F%3FnoSignUpCheck%3D1" target="_blank"> 
-    <img src="https://github.com/mfulo/mfulo/assets/142382665/dd634aab-8ad7-4892-9b41-f20c4eda1ffb" height="50"/> 
+    <img src="https://github.com/mfulo/mfulo/assets/142382665/b9c1bfb2-b8af-46f6-8c5b-9ac9033f908e" height="50"/> 
 </a> 
 <!-- Tableau -->
 <a href="https://public.tableau.com/app/discover" target="_blank"> 
