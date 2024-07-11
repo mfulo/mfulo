@@ -59,46 +59,24 @@
 
 ## 💻 SKILL SET
 ### Programming Languages
-<!-- Java -->
-<a href="https://www.java.com/en/" target="_blank"> 
-    <img src="https://github.com/mfulo/mfulo/assets/142382665/48b88607-4f76-4300-98cc-ffca8832c348" height="50"/> 
-</a> 
-<!-- Python -->
-<a href="https://www.python.org/" target="_blank"> 
-    <img src="https://github.com/mfulo/mfulo/assets/142382665/60d57073-9beb-47f9-9319-1af070e0fb93" height="50"/> 
-</a> 
-
+[![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.oracle.com/java/)
+[![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/)
+[![Fortran](https://img.shields.io/badge/Fortran-734EAA?style=for-the-badge&logo=fortran&logoColor=white)](https://fortran-lang.org/)
 
 
 ### Data Visualization Tools
-<!-- Powerbi -->
-<a href="https://app.powerbi.com/singleSignOn?ru=https%3A%2F%2Fapp.powerbi.com%2F%3FnoSignUpCheck%3D1" target="_blank"> 
-    <img src="https://github.com/mfulo/mfulo/assets/142382665/b9c1bfb2-b8af-46f6-8c5b-9ac9033f908e" height="50"/> 
-</a> 
-<!-- Tableau -->
-<a href="https://public.tableau.com/app/discover" target="_blank"> 
-    <img src="https://github.com/mfulo/mfulo/assets/142382665/4e2fea5a-0a39-4b21-8116-deb638cc46b7" height="50"/> 
-</a>
-
+[![Power BI](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://powerbi.microsoft.com/)
+[![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)](https://www.tableau.com/)
 
 
 ### DBMS
-<!-- DB2 -->
-<a href="https://www.ibm.com/db2" target="_blank"> 
-    <img src="https://github.com/mfulo/mfulo/assets/142382665/12fae7c5-9df6-42bc-8283-b132a0638803" height="50"/> 
-</a> 
+[![DB2](https://img.shields.io/badge/DB2-0033A0?style=for-the-badge&logo=IBM&logoColor=white)](https://www.ibm.com/analytics/db2)
+[![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
 
 
 ### Dev Tools
-<!-- Jaspersoft -->
-<a href="https://community.jaspersoft.com/forums/topic/48468-export-report-as-an-image/" target="_blank"> 
-    <img src="https://github.com/mfulo/mfulo/assets/142382665/011d0f58-8d39-4b04-9c3e-8a96c46c1681" height="50"/> 
-</a> 
-<!-- Lucidchart -->
-<a href="https://www.lucidchart.com/pages/landing?utm_source=google&utm_medium=cpc&utm_campaign=_chart_en_tier3_mixed_search_brand_exact_&km_CPC_CampaignId=1484560207&km_CPC_AdGroupID=60168114191&km_CPC_Keyword=lucidchart&km_CPC_MatchType=e&km_CPC_ExtensionID=&km_CPC_Network=g&km_CPC_AdPosition=&km_CPC_Creative=442433234360&km_CPC_TargetID=kwd-33511936169&km_CPC_Country=1011171&km_CPC_Device=c&km_CPC_placement=&km_CPC_target=&gad_source=1&gclid=Cj0KCQjwhb60BhClARIsABGGtw8LNQ4ASOcNJG3OccyvDQJvJMgg4TRlcDTfFcRsBYxRKJRzQfTxoKEaAh-rEALw_wcB" target="_blank"> 
-    <img src="https://github.com/mfulo/mfulo/assets/142382665/414ff844-316e-47cc-864b-d606b93c02d3" height="50"/> 
-</a> 
-<!-- Eclipse -->
-<a href="https://eclipseide.org/" target="_blank"> 
-    <img src="https://github.com/mfulo/mfulo/assets/142382665/dbf5dc8a-64b9-4b8d-a005-54146a100b19" height="50"/> 
-</a> 
+[![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)](https://www.eclipse.org/)
+[![Lucidchart](https://img.shields.io/badge/Lucidchart-F28D1A?style=for-the-badge&logo=Lucidchart&logoColor=white)](https://www.lucidchart.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
+[![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij%20idea&logoColor=white)](https://www.jetbrains.com/idea/)
+[![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)](https://jupyter.org/)
