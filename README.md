@@ -59,24 +59,24 @@
 
 ## 💻 SKILL SET
 ### Programming Languages
-[![Java](https://img.shields.io/badge/java-%23A36F40.svg?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.oracle.com/java/)
-[![Python](https://img.shields.io/badge/python-%23A8A0C0.svg?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![Fortran](https://img.shields.io/badge/Fortran-%23A1859F.svg?style=for-the-badge&logo=fortran&logoColor=white)](https://fortran-lang.org/)
+[![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.oracle.com/java/)
+[![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/)
+[![Fortran](https://img.shields.io/badge/Fortran-734EAA?style=for-the-badge&logo=fortran&logoColor=white)](https://fortran-lang.org/)
 
 
 ### Data Visualization Tools
-[![Power BI](https://img.shields.io/badge/power_bi-%23F4D03F.svg?style=for-the-badge&logo=powerbi&logoColor=black)](https://powerbi.microsoft.com/)
-[![Tableau](https://img.shields.io/badge/Tableau-%23E88E4A.svg?style=for-the-badge&logo=Tableau&logoColor=white)](https://www.tableau.com/)
+[![Power BI](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://powerbi.microsoft.com/)
+[![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)](https://www.tableau.com/)
 
 
 ### Database Management System
-[![DB2](https://img.shields.io/badge/DB2-%23005D9C.svg?style=for-the-badge&logo=IBM&logoColor=white)](https://www.ibm.com/analytics/db2)
-[![MongoDB](https://img.shields.io/badge/MongoDB-%23A4C639.svg?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
+[![DB2](https://img.shields.io/badge/DB2-0033A0?style=for-the-badge&logo=IBM&logoColor=white)](https://www.ibm.com/analytics/db2)
+[![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
 
 
 ### Development Tools
-[![Eclipse](https://img.shields.io/badge/Eclipse-%23A68DBB.svg?style=for-the-badge&logo=eclipse&logoColor=white)](https://www.eclipse.org/)
-[![Lucidchart](https://img.shields.io/badge/Lucidchart-%23F6B93B.svg?style=for-the-badge&logo=Lucidchart&logoColor=white)](https://www.lucidchart.com/)
-[![GitHub](https://img.shields.io/badge/GitHub-%23A58AC7.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
-[![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-%236E6E6E.svg?style=for-the-badge&logo=intellij%20idea&logoColor=white)](https://www.jetbrains.com/idea/)
-[![Jupyter Notebook](https://img.shields.io/badge/Jupyter-%23F47920.svg?style=for-the-badge&logo=jupyter&logoColor=white)](https://jupyter.org/)
+[![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)](https://www.eclipse.org/)
+[![Lucidchart](https://img.shields.io/badge/Lucidchart-F28D1A?style=for-the-badge&logo=Lucidchart&logoColor=white)](https://www.lucidchart.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
+[![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij%20idea&logoColor=white)](https://www.jetbrains.com/idea/)
+[![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)](https://jupyter.org/)
