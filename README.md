@@ -5,7 +5,7 @@
 <h1 align="center">MILCA LIANNE FULO </h1>
 <!-- Contact Details here. -->
 <p align="center">
-  📞 +639666842123 | 📧 milca.fulo@neu.edu.ph | 🏠  Quezon City
+  📞 +639666842123 &emsp; 📩 milca.fulo@neu.edu.ph &emsp; 📌 Quezon City
 </p>
 
 <br>
