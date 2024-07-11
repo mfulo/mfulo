@@ -6,7 +6,17 @@
 <h1 align="center">MILCA LIANNE FULO </h1>
 <!-- Contact Details here. -->
 <p align="center">
-📞 +639666842123  📩 milca.fulo@neu.edu.ph  📌 Quezon City <br>
+  <a href="tel:+639666842123">
+    <img alt="Contact" title="Contact us" src="https://img.shields.io/badge/Contact%20+639666842123-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+  </a>
+  
+<a href="mailto:yourname@gmail.com">
+  <img alt="Email" title="milca.fulo@neu.edu.ph" src="https://img.shields.io/badge/Email%20-milca.fulo@neu.edu.ph-orange?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.google.com/maps/place/Your+Location">
+  <img alt="Location" title="Quezon City" src="https://img.shields.io/badge/Find%20me-Quezon%20City-4285F4?style=for-the-badge&logo=google-maps&logoColor=white"/>
+</a>
 </p>
 
 <br>
