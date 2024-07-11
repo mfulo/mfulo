@@ -1,4 +1,4 @@
-## Milca Fulo
+### Milca Fulo
 <!-- Your Contact Details here. -->
 
 # Education
