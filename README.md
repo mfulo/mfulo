@@ -50,10 +50,14 @@
 | **Tableau**                | [Awesome Chocolate Dashboard Report](https://public.tableau.com/app/profile/milca.fulo/viz/AwesomeChocolateDashboardReport_17156819785960/Dashboard1)          |
 | **Power BI**               | [Snack Report using DAX](https://app.powerbi.com/view?r=eyJrIjoiMDdlYWM0OWUtNDQ4MS00NWY0LTk1MDItZjAxOTQ5NDM4ZjFlIiwidCI6IjUwZGQ1NjhmLTYwNTMtNDJkOC04NTEzLTk1NmU3N2RhZDY3NyIsImMiOjEwfQ%3D%3D) <br> [Soda Report for 2022](https://app.powerbi.com/view?r=eyJrIjoiYjc1ZDA0MzctZWI5ZC00ODcwLWIwZTAtNmY5MjU5YzU5ZDE5IiwidCI6IjUwZGQ1NjhmLTYwNTMtNDJkOC04NTEzLTk1NmU3N2RhZDY3NyIsImMiOjEwfQ%3D%3D)          |
 
-### Software Design
-|        **PLATFORM**        |             **REPORT TITLE**                |
-|---------------------------:|:--------------------------------------------|
-| **Pattern**                | [Strategy pattern](https://github.com/mfulo/strategyPattern) <br> [Facade pattern](https://github.com/mfulo/facadePattern) <br> [Observer pattern](https://github.com/mfulo/observerPattern) <br> [State pattern](https://github.com/mfulo/statePattern) <br> [Visitor pattern](https://github.com/mfulo/visitorPattern) <br>|
+### Refactoring 
+|        **DESIGN PATTERN**        |             **LINK**                |
+|---------------------------:|:------------------------------------------|
+| **Strategy pattern**       | https://github.com/mfulo/strategyPattern  |
+| **Facade pattern**         | https://github.com/mfulo/facadePattern    |
+| **Observer pattern**       | https://github.com/mfulo/observerPattern  |
+| **State pattern**          | https://github.com/mfulo/statePattern     |
+| **Visitor pattern**        | https://github.com/mfulo/visitorPattern   |
 
 <br>
 
