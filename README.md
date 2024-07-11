@@ -73,7 +73,7 @@
 </a>
 
 
-### Programming Language
+### Programming Languages
 <!-- Java -->
 <a href="https://www.java.com/en/" target="_blank"> 
     <img src="https://github.com/mfulo/mfulo/assets/142382665/48b88607-4f76-4300-98cc-ffca8832c348" height="50"/> 
