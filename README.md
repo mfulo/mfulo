@@ -2,7 +2,7 @@
   <img align="center" alt="Milave" width="150" src="https://github.com/mfulo/mfulo/assets/142382665/80b14cce-1659-4814-85bb-0e1e53ffc493">
 </p>
 
-<h1 align="center">MILCA LIANNE FULO </h1>
+<h1 align="center">MILCA FULO </h1>
 <!-- Contact Details here. -->
 <p align="center">
   📞 +639666842123 &emsp; 📩 milca.fulo@neu.edu.ph &emsp; 📌 Quezon City
