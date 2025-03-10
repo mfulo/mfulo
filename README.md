@@ -5,7 +5,7 @@
 <h1 align="center">MILCA FULO </h1>
 <!-- Contact Details here. -->
 <p align="center">
-  📞 +639666842123 &emsp; 📩 milca.fulo@neu.edu.ph &emsp; 📌 Quezon City
+  📞 +63XXXXXXXXXX &emsp; 📩 milcalianne.fulo@neu.edu.ph &emsp; 📌 Philippines
 </p>
 
 <br>
