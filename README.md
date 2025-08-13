@@ -13,7 +13,7 @@
 ## 🎓 EDUCATION
 
 **New Era University**
-- BS Computer Science
+- Bachelor of Science in Computer Science
 - 2021-2025
 
 <br>
