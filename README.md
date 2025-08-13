@@ -5,7 +5,7 @@
 <h1 align="center">MILCA FULO </h1>
 <!-- Contact Details here. -->
 <p align="center">
-  📞 +63XXXXXXXXXX &emsp; 📩 milcalianne.fulo@neu.edu.ph &emsp; 📌 Philippines
+  📞 +63XXXXXXXXXX &emsp; 📩 xxx@xxx.com &emsp; 📌 Philippines
 </p>
 
 <br>
@@ -14,15 +14,7 @@
 
 **New Era University**
 - BS Computer Science
-- 2021-Present
-
-**University of the Philippines Los Baños**
-- BS Applied Physics (Undergraduate)
-- 2018-2021
-
-**Lourdes School Quezon City**
-- STEM Strand
-- 2012-2018
+- 2021-2025
 
 <br>
 
