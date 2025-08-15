@@ -23,7 +23,7 @@
 |         **PROVIDER**       |                  **COURSE**                |
 |---------------------------:|:-------------------------------------------|
 | **Datacamp**               | [Introduction to Python](https://www.datacamp.com/completed/statement-of-accomplishment/course/c085179bad28306ea1277d7e00fc48c0e4711c35) |
-| **DICT**                   | Programming for Beginners Using Python |
+| **DICT**                   | [Programming for Beginners Using Python](dict_programming_for_beginners_using_python.pdf) |
 | **ISC2**                   | [CC Domain 1: Security Principles](https://isc2.obrizum.io/org/cc/certificate/4a27b033-503c-4270-8c4f-83934bfd9a92)<br>[CC Domain 2: Incident Response, Business Continuity and Disaster Recovery Concepts](https://isc2.obrizum.io/org/cc/certificate/c1ecafed-782b-4854-9aae-0b5631955b67)<br>[CC Domain 3: Access Control Concepts](https://isc2.obrizum.io/org/cc/certificate/7b3db68b-a00f-407d-92bd-824d512cef39) |
 | **Kaggle**                 | [Intro to Programming (Python)](https://www.kaggle.com/learn/certification/milcafulo/intro-to-programming) |
 | **Simplilearn**            | Business Analytics with Excel |
